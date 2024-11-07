@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm [Mochammad Cholilur Rokhman]
 
 ### 💻 About Me:
 I am a Computer Science student at **Politeknik Negeri Malang** with a passion for coding, problem-solving, and learning new technologies. I love to create impactful software and explore the world of AI and data science.
@@ -20,7 +20,7 @@ I am a Computer Science student at **Politeknik Negeri Malang** with a passion f
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=10&theme=radical)
 
 ### 🏆 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true)
+![Your GitHub Stat](https://github-readme-stats.vercel.app/api?username=mochammadcholilurrokhman&show_icons=true&theme=radical&count_private=true)
 
 ### 🌐 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
