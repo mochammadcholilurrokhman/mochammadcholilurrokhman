@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Mochammad Cholilur Rokhman]
+# Hi there! 👋 I'm Mochammad Cholilur Rokhman
 
 ### 💻 About Me:
 I am a Computer Science student at **Politeknik Negeri Malang** with a passion for coding, problem-solving, and learning new technologies. I love to create impactful software and explore the world of AI and data science.
@@ -17,7 +17,7 @@ I am a Computer Science student at **Politeknik Negeri Malang** with a passion f
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🌐 My Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=10&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mochammadcholilurrokhman&layout=compact&langs_count=10&theme=radical)
 
 ### 🏆 GitHub Stats
 ![Your GitHub Stat](https://github-readme-stats.vercel.app/api?username=mochammadcholilurrokhman&show_icons=true&theme=radical&count_private=true)
