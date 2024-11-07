@@ -17,6 +17,5 @@
 ## Fun Animation!
 Here's a cool animation I created:
 
-![Cool Animation](https://github.com/mochammadcholilurrokhman/animation.gif)
-
+![Cool Animation](https://media.giphy.com/media/1gA0GchIxaXJkaRh6d/giphy.gif)
 ---
