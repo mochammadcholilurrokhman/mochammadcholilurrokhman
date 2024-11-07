@@ -1,9 +1,15 @@
 # Hello, I'm **Mochammad Cholilur Rokhman** 👋
 
 ## 💻 About Me:
-- 🎓 I’m a student at **Politeknik Negeri Malang**
-- 📚 Passionate about **Machine Learning**, **Image Processing**, and **AI**.
-- 📫 Feel free to reach out via email: [ilulsrut69@gmail.com](mailto:ilulsrut69@gmail.com)
+Welcome to my profile!  
+- 🏫 I am student at Politeknik Negeri Malang
+- 📫 How to reach me ilulsrut69@gmail.com
+
+<details>
+  <summary>📬 Click here to get more about me!</summary>
+  - 🎓 **Education:** Studying at Politeknik Negeri Malang
+  - 🤝 **Connect with me** through [LinkedIn](https://linkedin.com/in/moch-cholilur-22674b25a) or [GitHub](https://github.com/mochammadcholilurrokhman)!
+</details>
 
 ---
 
@@ -14,22 +20,11 @@
 
 ---
 
-## 🌟 My Tech Stack:
-- 🖥️ **Languages:** Python, Java, Dart, C++
-- 🧠 **Technologies:** TensorFlow, OpenCV, Flutter, Keras, PyTorch
-- 📊 **Data Science:** Pandas, NumPy, Scikit-learn
-- 🛠️ **Tools:** VS Code, Jupyter, Git, Docker
 
 ---
 
 ## 🔥 My Most Used Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mochammadcholilurrokhman&layout=compact&langs_count=10&theme=radical)](https://github.com/mochammadcholilurrokhman)
-
----
-
-
-## 🔄 My Activity in Real-Time:
-[![Mochammad Cholilur Rokhman's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=mochammadcholilurrokhman&theme=radical)](https://github.com/mochammadcholilurrokhman)
 
 ---
 
