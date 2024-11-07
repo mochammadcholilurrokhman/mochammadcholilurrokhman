@@ -7,7 +7,7 @@ Welcome to my profile!
 
 <details>
   <summary>📬 Click here to get more about me!</summary>
-  - 🎓 **Education:** Studying at Politeknik Negeri Malang
+  - 🎓 **Education:** Studying at Politeknik Negeri Malang <br>
   - 🤝 **Connect with me** through [LinkedIn](https://linkedin.com/in/moch-cholilur-22674b25a) or [GitHub](https://github.com/mochammadcholilurrokhman)!
 </details>
 
