@@ -5,7 +5,7 @@
 ## 💻 About Me:
 Welcome to my profile!  
 - 🏫 I am student at Politeknik Negeri Malang
-- 📫 How to reach me ilulsrut69@gmail.com
+- 📫 How to reach me [ilulsrut69@gmail.com](mailto:ilulsrut69@gmail.com)  
 
 <details>
   <summary>📬 Click here to get more about me!</summary>
